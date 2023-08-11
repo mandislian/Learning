@@ -1,0 +1,7 @@
+https://community.fabric.microsoft.com/t5/Themes-Gallery/Sport-Products-Sales-Analysis/td-p/3334955
+
+
+belum bisa :
+- buat growth KPI
+- buat highligh values
+- buat dynamic bulan
